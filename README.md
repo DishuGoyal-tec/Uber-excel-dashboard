@@ -40,7 +40,7 @@ All visuals update automatically based on slicer selections.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard_ss.png)
+[![Dashboard](images/dashboard_ss.png)](https://github.com/DishuGoyal-tec/Uber-excel-dashboard/blob/main/dashboard_ss.png)
 
 ---
 
