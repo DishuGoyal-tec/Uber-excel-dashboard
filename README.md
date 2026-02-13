@@ -20,8 +20,6 @@ To help stakeholders quickly understand:
 - Slicers  
 - GETPIVOTDATA  
 - KPI Design  
-- Data Cleaning & Transformation  
-- Business Insight Generation  
 
 ---
 
